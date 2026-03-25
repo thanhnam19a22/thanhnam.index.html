@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Phân vùng Giao diện MacBook Neo (Chỉ HTML)</title>
+</head>
+<body bgcolor="#ffffff" text="#1d1d1f">
+
+    <table width="100%" bgcolor="#f5f5f7" cellpadding="10" border="0">
+        <tr>
+            <td align="center">
+                <font size="2" color="#6e6e73">
+                    Chọn quốc gia hoặc khu vực khác để xem nội dung dành riêng cho vị trí của bạn và mua sắm trực tuyến.
+                    &nbsp;&nbsp;
+                    <select>
+                        <option>Việt Nam</option>
+                    </select>
+                    &nbsp;
+                    <button><b>Tiếp Tục</b></button>
+                </font>
+            </td>
+        </tr>
+    </table>
+
+    <table width="100%" border="0" cellpadding="10">
+        <tr>
+            <td align="center">
+                <font size="2">
+                    <b></b> &nbsp;&nbsp;&nbsp;&nbsp; 
+                    Store &nbsp;&nbsp;&nbsp;&nbsp; 
+                    Mac &nbsp;&nbsp;&nbsp;&nbsp; 
+                    iPad &nbsp;&nbsp;&nbsp;&nbsp; 
+                    iPhone &nbsp;&nbsp;&nbsp;&nbsp; 
+                    Watch &nbsp;&nbsp;&nbsp;&nbsp; 
+                    Vision &nbsp;&nbsp;&nbsp;&nbsp; 
+                    AirPods &nbsp;&nbsp;&nbsp;&nbsp; 
+                    Support &nbsp;&nbsp;&nbsp;&nbsp; 
+                    🔍 &nbsp;&nbsp;&nbsp;&nbsp; 
+                    👜
+                </font>
+            </td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <center>
+        <font size="7"><b>MacBook Neo</b></font><br>
+        <font size="5">Amazing Mac. Surprising price.</font>
+        
+        <br><br>
+
+        <font size="4">
+            <a href="#" style="color: #0066cc; text-decoration: none;">Learn more ></a>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="#" style="color: #0066cc; text-decoration: none;">Buy ></a>
+        </font>
+
+        <br><br><br>
+
+        <table border="0">
+            <tr>
+                <td align="center">
+                    <img src="https://www.apple.com/v/macbook-air/q/images/overview/hero/hero_static__et6p67vclmmi_large.jpg" width="600" alt="MacBook Neo">
+                    <br>
+                    <font color="#888888"><i>(Hình ảnh mô phỏng sản phẩm và bàn tay đỡ)</i></font>
+                </td>
+            </tr>
+        </table>
+    </center>
+
+</body>
+</html>
